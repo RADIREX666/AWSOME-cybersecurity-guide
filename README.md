@@ -1,5 +1,7 @@
 # AWSOME-cybersecurity-guide
 https://www.arsamsabbagh.ir
+https://www.radirex.ir
+https://www.coaxys.ir
 # Cybersecurity Blog Projects (English & فارسی)
 
 This gist contains all of my cybersecurity blog posts in both English and Persian.  
