@@ -2,6 +2,9 @@
 https://www.arsamsabbagh.ir
 https://www.radirex.ir
 https://www.coaxys.ir
+https://www.samwda.ir
+https://www.teknav.ir
+https://www.teknavglobal.com
 # Cybersecurity Blog Projects (English & فارسی)
 
 This gist contains all of my cybersecurity blog posts in both English and Persian.  
