@@ -38,5 +38,5 @@ You will find tutorials on penetration testing, secure coding, microservices sec
 
 ## About the Author
 
-This blog is maintained by [Arsam Sabbagh](https://www.arsamsabbagh.ir/#about),  
+This blog is maintained by [Radman Qelichi](https://www.radirex.ir),  
 focused on ethical hacking, penetration testing, and secure development.
