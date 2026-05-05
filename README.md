@@ -16,11 +16,11 @@ You will find tutorials on penetration testing, secure coding, microservices sec
 
 - [Homepage (EN Section)](https://www.arsamsabbagh.ir/en/)
 - [Microservices Security Guide (EN)](https://www.arsamsabbagh.ir/blog/microservices-security-en.html)  
-  Complete guide on securing microservices architecture.
+  Complete guide on securing microservices architecture
 - [XSS Guide (EN)](https://www.arsamsabbagh.ir/blog/xss-guide-en.html)  
-  Step-by-step tutorial on Cross-Site Scripting attacks and defenses.
+  Step-by-step tutorial on Cross-Site Scripting attacks and defenses
 - [Kali Linux Guide (EN)](https://www.arsamsabbagh.ir/blog/kali-linux-guide-en.html)  
-  Beginner to advanced guide for penetration testers.
+  Beginner to advanced guide for penetration testers
 
 ---
 
